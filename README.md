@@ -40,7 +40,10 @@ nnictl create --config config.yml
 ```bash
 nnictl stop
 ```
-
+## Screen Shot
+![](screenshot/001.png)
+![](screenshot/002.png)
+![](screenshot/003.png)
 ## Reference
 - [nni/examples/trials/mnist-pytorch/](https://github.com/microsoft/nni/tree/84507248ccec1fa329da91f930bf8704449c9707/examples/trials/mnist-pytorch)
 - [Write a Trial Run on NNI](https://nni.readthedocs.io/en/stable/TrialExample/Trials.html#more-examples)
